@@ -1,0 +1,112 @@
+
+  #rightHead{
+  margin-left: 210px;
+  margin-top: 40px;
+}
+.rightSide{
+  margin-left: 210px;
+}
+#fancy{
+  font-family: 'Satisfy', cursive;
+  font-size: 35px;
+}
+#logo{
+  display: inline;
+  margin-left: 210px;
+  margin-top: 65px;
+}
+h5,h6{
+ font-family: 'Raleway', sans-serif;
+ font-size: 10px;
+ color: gray;
+}
+
+#socialMedia{
+  float: right;
+  margin-right: 310px;
+}
+#banner{
+  font-family: 'Oswald', sans-serif;
+  font-size: 55px;
+}
+
+#hero{
+  margin-top: 70px;
+  margin-left: 210px;
+  margin-right: 180px;
+}
+
+.recipe{
+  margin-top: 25px;
+  margin-bottom: 30px;
+  margin-left: 180px;
+  margin-right: 210px;
+  font-family: 'Slabo 27px', serif;
+  font-size: 24px;
+}
+#leftIng{
+  float: left;
+  margin-left: 50px;
+  margin-top: 45px;
+  font-family: 'Coming Soon', cursive;
+  font-size: 23px;
+  line-height: 28px;
+  text-decoration: none;
+}
+
+#rightIng{
+  float: right;
+  margin-right: 620px;
+  margin-top: 45px;
+  margin-bottom: 180px;
+  font-family: 'Coming Soon', cursive;
+  font-size: 23px;
+  line-height: 28px;
+  text-decoration: none;
+}
+
+#paper{
+  height: 300px;
+  width: 100%;
+  background-image: url("assets/list-bg.png");
+  background-repeat: no-repeat;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+footer{
+  clear: both;
+  width: 85%;
+  Height: 20px;
+  margin-bottom: 50px;
+}
+#van{
+  margin-left: 230px;
+  margin-top: -120px;
+}
+
+#bio{
+float: right;
+font-family: 'Slabo 27px', serif;
+font-size: 24px;
+margin-bottom: 80px;
+display: inline-block;
+margin-top: -90px;
+margin-right: 210px;
+margin-left: 320px;
+}
+
+button{
+  background-color: #c97f5a;
+  font-family: 'Raleway', sans-serif;
+  display: inline-block;
+  font-size: 18px;
+  color: white;
+  height: 55px;
+  width: 180px;
+  /*float: right;*/
+  margin-right: 380px;
+  margin-left: 890px;
+  margin-top: -230px;
+  margin-bottom: 400px;
+
+}
